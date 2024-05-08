@@ -5,4 +5,6 @@ Implementation Details: <br />
 * Maintain information on customers
 * Process transactions (deposits, withdrawals, buy, sell, etc.)
 * Generate monthly reports and update accounts with monthly interest
-* Provide an interface for online trading and transactions, accessing necessary information about movies, actors and directors, the market, and necessary trading methods
+* Provide an interface for online trading and transactions, accessing necessary information about movies, actors and directors, the market, and necessary trading methods <br />
+
+![ER Diagram](ER-diagram.png)
